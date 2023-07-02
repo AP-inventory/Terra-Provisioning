@@ -5,7 +5,7 @@ variable "aws_region" {
 }
 
 variable "bucket_name" {
-  description = "S3 bucket name"
+  description = "My First S3 Bucket"
   type        = string
-  default     = "my-example-bucket"
+  default     = "BucketByTerra"
 }
